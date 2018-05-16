@@ -20,6 +20,15 @@
 - GitHub：https://github.com/TruthHun/DocHub
 - Gitee： https://gitee.com/TruthHun/DocHub
 
+<a name="qqgroup"></a>
+## QQ交流群
+为方便相互学习和交流，建了个QQ群，加群请备注`来自BookStack`
+
+> QQ交流群：457803862(猿军团)
+
+同时要说明的是，这个是学习交流群，如果是程序相关问题，请提交issue，再把issue链接发群里。
+
+
 
 ## 模板页面一览
 
