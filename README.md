@@ -1,6 +1,6 @@
 # DocHub文库移动端模板
 
-[DocHub](https://gitee.com/TruthHun/DocHub)文库移动端模板，使用Bootstrap开发，原型主要参照百度文库移动端和新浪爱问文库移动端站点，在2017年10月份之前开发设计出来的。
+[DocHub](https://gitee.com/TruthHun/DocHub)文库移动端模板，使用Bootstrap开发，原型主要参考百度文库移动端和新浪爱问文库移动端站点，在2017年10月份之前开发设计出来的。
 
 但是后来由于时间原因，[DocHub](https://gitee.com/TruthHun/DocHub)文库移动端站点一直没开发。
 
