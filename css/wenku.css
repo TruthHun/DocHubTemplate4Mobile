@@ -1,0 +1,115 @@
+/*
+Author:TruthHun(进击的皇虫)
+Email:TruthHun@QQ.COM
+Date:2017-09-18
+Powered By HC-CMS
+*/
+
+/*global css start*/
+body{padding-top: 10px;font-family: arial,sans-serif;}
+.wenku-logo{text-align: center;}
+.wenku-logo img{max-height: 50px;}
+ul,li{list-style: none;padding: 0px;}
+.wenku-navbar{margin-top:10px;font-size: 16px;border-bottom: #f4f4f4 1px solid;height: 40px;line-height:40px;}
+.wenku-navbar a{color: #666;line-height: 40px;display: inline-block}
+.wenku-navbar li.active a{color: #1cb584;border-bottom: 2px solid #1cb584;font-weight: bold;line-height: 37px;}
+.wenku-no-padding{padding: 0px !important;}
+.wenku-npr{padding-right: 0px !important;}
+.wenku-npl{padding-left: 0px !important;}
+.wenku-text-ellipsis{white-space: nowrap;overflow: hidden;text-overflow: ellipsis;}
+.font-color-title{color: #333333 !important;}
+.font-color-green{color: #1cb584 !important;}
+.font-size-title{font-size: 18px !important;}
+.font-size-small{font-size: 13px;}
+a,a:hover,a:visited,a:focus{text-decoration: none;color: #737373}
+.mgt-5px{margin-top: 5px;}
+.mgt-15px{margin-top: 15px;}
+.mgr-15px{margin-right: 15px;}
+textarea{resize: none;}
+.wenku-footer{border-top: 1px solid #f4f4f4;padding: 15px 0px;}
+.wenku-footer a{display: inline-block;margin:0px 3px;color: #737373;}
+.wenku-panel{border-radius: 0px !important;border:0px !important;margin-bottom: 0px;box-shadow: none !important;}
+.wenku-panel div{border:0px;}
+.wenku-list-title a.pull-left{padding-left: 15px;}
+.wenku-list-title a.pull-left img{height:18px;}
+.wenku-list-title h3{margin:0px;margin-top:-10px;height: 44px;line-height:44px;border-bottom: 1px solid #f4f4f4;font-size: 18px;}
+/*global css end*/
+
+/*page index start*/
+#page-index .wenku-main{padding: 0px 15px;}
+#page-index .wenku-main a.col-xs-12{padding:15px 0px;border-bottom:1px solid #f6f6f6;}
+#page-index .wenku-main a.col-xs-12 .help-block{margin-bottom: 0px;}
+#page-index .wenku-bottom-tips{margin:15px auto;}
+/*page index end*/
+
+/*page category start*/
+#page-category .wenku-panel .panel-body{padding-top:0px;padding-bottom:0px;}
+#page-category .wenku-panel .panel-body ul{margin-bottom: 0px;}
+#page-category .wenku-panel .panel-body li{border-bottom: 1px solid #f4f4f4;}
+#page-category .wenku-panel .panel-body li a{line-height: 50px;display: block;color: #333333}
+/*page category end*/
+
+/*page list start*/
+#page-list .wenku-main{padding: 0px 15px;}
+#page-list .wenku-main a.col-xs-12{padding:15px 0px;border-bottom:1px solid #f6f6f6;}
+#page-list .wenku-main a.col-xs-12 .help-block{margin-bottom: 0px;}
+#page-list .wenku-bottom-tips{margin:15px auto;}
+/*page list end*/
+
+/*page search start*/
+#page-search form{margin:30px auto;}
+#page-search .wenku-words{margin-bottom: 5px;min-height: 300px;}
+#page-search .wenku-words a{display: inline-block;color: #737373;font-size: 16px;margin:0px 8px 10px 0px;}
+/*page search end*/
+
+/*page view start*/
+#page-view .wenku-header{height: 44px;line-height: 44px;margin-top: -10px;padding:0px 15px;border-bottom: 1px solid #f4f4f4;}
+#page-view .wenku-header img{height: 18px;position: relative;top:-2px;}
+#page-view .wenku-header .fa{font-size: 18px;}
+#page-view .wenku-info span{margin-right: 5px;}
+#page-view .wenku-info span.pull-right{margin-right: 0px;}
+#page-view .wenku-header .pull-right .fa{margin-left: 15px;}
+#page-view h1{font-size: 24px;line-height: 30px;margin-top:15px;margin-bottom: 15px;}
+#page-view h1 img{margin-right: 5px;position: relative;top:-3px;}
+#page-view .wenku-viewer{border-top:1px solid #f4f4f4;margin-top: 5px;padding-left:0px;padding-right: 0px;}
+#page-view .wenku-viewer img{width: 100%;}
+#page-view select option{text-align: center;}
+#page-view .btn-group-justified .input-group-addon{background-color: #ffffff;border-radius: 0px;border-left: 0px;border-right: 0px;}
+#page-view .btn-group-justified .btn{border-radius: 0px;border: 0px;}
+#page-view .btn-group-justified .input-group-addon{border:0px;padding:6px 10px;border-bottom: 0px}
+#page-view .btn-group-justified .form-control{border:0px;box-shadow:none;padding-left:5px;padding-right: 5px;}
+#page-view .wenku-maylike .panel-body{padding-top: 0px;padding-bottom: 0px;}
+#page-view .wenku-maylike li{display:block;line-height: 50px;overflow: hidden;text-overflow: ellipsis;border-bottom: 1px solid #f4f4f4;height: 50px;white-space: nowrap;font-size: 15px;}
+#page-view .wenku-maylike li img{position: relative;top:-2px;margin-right: 5px;}
+#page-view .wenku-maylike li:last-of-type{border-bottom: 0px;}
+/*view disabled*/
+#page-view .wenku-viewer li{line-height: 44px;border-bottom: 1px dashed #f4f4f4;font-size: 16px;}
+#page-view .wenku-viewer li:last-of-type{border-bottom: 0px;}
+/*page view end*/
+
+/*page reg start*/
+#page-reg form{margin-top: 15px;}
+#page-reg .wenku-tips{margin-bottom: 30px;}
+#page-reg form.wenku-login{padding-top:15px;}
+/*page reg end*/
+
+/*page user start*/
+#page-user .wenku-login{border-bottom: 5px solid #f4f4f4;}
+#page-user .wenku-login img{border-radius: 50%;}
+#page-user .h3{font-size: 18px;margin-top:15px;margin-bottom: 15px;font-weight: normal;color: #333333;}
+#page-user .wenku-list{min-height: 300px;padding: 0px 0px 15px;}
+#page-user .wenku-list a.col-xs-12{padding: 0px;border-bottom: 1px solid #F6F6F6;padding-top: 15px;;}
+#page-user .wenku-list>.help-block{margin:30px 0px;}
+#page-user .wenku-list .wenku-doc{position: relative;left: 60px;top:-56px;}
+#page-user .wenku-list .wenku-doc .h3{margin:0px;margin-bottom: 15px;}
+/*page user end*/
+
+/*page result start*/
+#page-result .wenku-panel{border-top: 10px solid #f4f4f4 !important;}
+#page-result .wenku-panel .wenku-title{font-size: 18px;line-height: 24px;margin-bottom: 10px;display: block;}
+#page-result .wenku-panel .wenku-title img{position: relative;top:-2px;margin-right: 5px;}
+#page-result .wenku-panel .panel-body{padding-bottom: 10px;}
+#page-result .wenku-panel .wenku-desc{border-top:1px solid #f6f6f6;border-bottom:1px solid #f6f6f6; padding: 10px 0px;line-height: 24px;}
+#page-result .wenku-panel .wenku-info{color: #888;margin-top:10px;}
+#page-result .wenku-more{background-color: #f6f6f6;padding: 10px;}
+/*page result end*/
